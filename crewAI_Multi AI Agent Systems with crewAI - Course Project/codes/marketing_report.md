@@ -1,0 +1,1 @@
+The marketing activities involved researching similar events in San Francisco and exploring the website of the MedTech Strategist to gain insights. The attendee engagement strategy includes signing up for newsletters and updates from the Innovation Summit San Francisco event and contacting Innovation In Medtech, LLC for more information.
