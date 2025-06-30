@@ -25,10 +25,10 @@ Agentic systems differ from traditional AI by embedding:
 
 ## 🛠️ Tech Stack & Design
 
-- **LLM-Oriented Architectures** (OpenAI, Claude, etc.)
+- **LLM-Oriented Architectures** (Gemini, OpenAI, Claude, Grok, Llama-Meta, etc.)
 - **Multi-Agent Orchestration** with memory and task delegation
 - **LangChain / Autogen / CrewAI / Custom Agents**
-- **Vector DBs** for memory (e.g., FAISS, Pinecone)
+- **Vector DBs** for memory (e.g., ChormaDB, FAISS, Pinecone)
 - **Integration with APIs, sensors, and system tools**
 
 Each agent is built using modular, reusable components emphasizing **interoperability**, **scalability**, and **ethical autonomy**.
