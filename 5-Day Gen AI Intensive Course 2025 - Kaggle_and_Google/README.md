@@ -1,5 +1,5 @@
 # 5-Day Generative AI Intensive with Google 2025
-### *(Taken last March 31 - April 4, 2025.)*
+### *(by Google, Deepmind, and Kaggle. Taken last March 31 - April 4, 2025.)*
 
 ## Table of Contents
 
