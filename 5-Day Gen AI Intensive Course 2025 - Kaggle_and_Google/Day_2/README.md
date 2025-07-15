@@ -130,3 +130,14 @@ The combination of high-quality embeddings and efficient vector search infrastru
 *   **Few-Shot Classification:** Classifying new items based on their similarity to a small number of labeled examples.
 
 Embeddings and vector stores are becoming foundational components in building intelligent systems capable of understanding and processing information in a more human-like, meaning-driven way.
+
+---
+### References:
+All "full versions" of Google Whitepapers covered during the training can be found on the links below:
+*   [https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation)
+*   [https://www.kaggle.com/whitepaper-prompt-engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
+*   [https://www.kaggle.com/whitepaper-embeddings-and-vector-stores](https://www.kaggle.com/whitepaper-embeddings-and-vector-stores)
+*   [https://www.kaggle.com/whitepaper-agents](https://www.kaggle.com/whitepaper-agents)
+*   [https://www.kaggle.com/whitepaper-agent-companion](https://www.kaggle.com/whitepaper-agent-companion)
+*   [https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms](https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms)
+*   [https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops](https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops)
