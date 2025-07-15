@@ -147,3 +147,14 @@ Med-PaLM 2 builds upon the general PaLM 2 foundation model. Its specialization c
 
 ### Conclusion
 Specialized LLMs like SecLM and Med-PaLM demonstrate the immense potential of tailoring generative AI for complex, high-stakes domains. In cybersecurity, SecLM aims to alleviate operational burdens, augment analyst capabilities, and enhance threat response. In healthcare, Med-PaLM focuses on responsibly improving information access, supporting clinical workflows, and ultimately contributing to better patient outcomes. Success in both fields hinges on deep domain expertise, targeted training, rigorous evaluation (including essential human oversight), responsible development practices, and close collaboration with domain practitioners. The development of these vertical-specific foundation models signals a future where AI becomes increasingly integrated into specialized professional workflows.
+
+---
+### References:
+All "full versions" of Google Whitepapers covered during the training can be found on the links below:
+*   [https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation)
+*   [https://www.kaggle.com/whitepaper-prompt-engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
+*   [https://www.kaggle.com/whitepaper-embeddings-and-vector-stores](https://www.kaggle.com/whitepaper-embeddings-and-vector-stores)
+*   [https://www.kaggle.com/whitepaper-agents](https://www.kaggle.com/whitepaper-agents)
+*   [https://www.kaggle.com/whitepaper-agent-companion](https://www.kaggle.com/whitepaper-agent-companion)
+*   [https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms](https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms)
+*   [https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops](https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops)
