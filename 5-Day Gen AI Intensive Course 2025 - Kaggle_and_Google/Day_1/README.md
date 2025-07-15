@@ -225,3 +225,14 @@ To maximize the effectiveness of LLMs, consider these best practices:
 
 ### Conclusion and Future Considerations
 Mastering prompt engineering is becoming an essential skill for effectively leveraging LLMs, offering a significant advantage in competitive environments like Kaggle. As models continue to evolve, staying updated on new capabilities, techniques, and best practices is crucial. A mindset of continuous experimentation, iteration, adaptation, and learning is key to pushing the boundaries of what can be achieved with these powerful tools.
+
+---
+### References:
+All "full versions" of Google Whitepapers covered during the training can be found on the links below:
+*   [https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation)
+*   [https://www.kaggle.com/whitepaper-prompt-engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
+*   [https://www.kaggle.com/whitepaper-embeddings-and-vector-stores](https://www.kaggle.com/whitepaper-embeddings-and-vector-stores)
+*   [https://www.kaggle.com/whitepaper-agents](https://www.kaggle.com/whitepaper-agents)
+*   [https://www.kaggle.com/whitepaper-agent-companion](https://www.kaggle.com/whitepaper-agent-companion)
+*   [https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms](https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms)
+*   [https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops](https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops)
