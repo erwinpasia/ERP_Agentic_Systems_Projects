@@ -265,3 +265,14 @@ As AI agents become more autonomous and take on higher-stakes tasks, establishin
 *   **Fairness:** Designing and evaluating agents to ensure they do not perpetuate harmful biases or discriminate against specific groups. This requires careful consideration of training data, algorithmic design, and evaluation metrics focused on equity.
 
 Building agents that embody these principles is essential for their responsible adoption and long-term success.
+
+---
+### References:
+All "full versions" of Google Whitepapers covered during the training can be found on the links below:
+*   [https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation)
+*   [https://www.kaggle.com/whitepaper-prompt-engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
+*   [https://www.kaggle.com/whitepaper-embeddings-and-vector-stores](https://www.kaggle.com/whitepaper-embeddings-and-vector-stores)
+*   [https://www.kaggle.com/whitepaper-agents](https://www.kaggle.com/whitepaper-agents)
+*   [https://www.kaggle.com/whitepaper-agent-companion](https://www.kaggle.com/whitepaper-agent-companion)
+*   [https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms](https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms)
+*   [https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops](https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops)
