@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Large Language Models: From Embeddings to Performance Optimization
 
 ## A Technical Study Guide for Deep Learning Practitioners
@@ -497,8 +495,4 @@ Current trends indicate continued scaling of model parameters alongside innovati
 - Practical deployment requires careful consideration of hardware and infrastructure
 
 This technical foundation provides the necessary knowledge for practitioners to effectively develop, deploy, and optimize LLM systems in production environments.
-
-<div style="text-align: center">⁂</div>
-
-[^1]: Transcript_Mastering_LLMs_from_Embeddings_to_Performance_Measurements.txt
 
