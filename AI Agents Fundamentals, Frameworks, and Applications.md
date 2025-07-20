@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # AI Agents: Fundamentals, Frameworks, and Applications
 
 ## A Comprehensive Technical Study Guide
@@ -333,8 +331,6 @@ AI agents represent a paradigm shift from reactive to proactive artificial intel
 - The field continues evolving rapidly with emerging applications and capabilities
 
 This comprehensive understanding positions practitioners to effectively leverage AI agents for complex problem-solving while maintaining awareness of associated challenges and limitations.
-
-<div style="text-align: center">⁂</div>
 
 [^1]: Transcript_Mastering_AI_Agents.txt
 
