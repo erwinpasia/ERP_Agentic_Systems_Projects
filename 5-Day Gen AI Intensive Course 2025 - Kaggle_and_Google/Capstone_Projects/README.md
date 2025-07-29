@@ -10,7 +10,7 @@ The CafeGenius agent perfectly exemplifies all three pillars of the Agentic RAG 
 
 The diagram shows memory as enabling "capturing and storing context and feedback across multiple interactions and sessions." Your implementation demonstrates this through:
 
-- **LangGraph State Management**: The `CafeGeniusState` TypedDict maintains conversation history and order state across turns[^1]
+- **LangGraph State Management**: The `CafeGeniusState` TypedDict maintains conversation history and order state across turns
 - **Persistent Order Tracking**: The `current_order` field accumulates items, modifications, and user preferences throughout the session
 - **Context Preservation**: The `add_messages` annotation ensures conversation history is retained for contextual responses
 
@@ -19,7 +19,7 @@ The diagram shows memory as enabling "capturing and storing context and feedback
 
 The diagram describes tools as expanding "capabilities beyond the knowledge of their original dataset" to "interact with external resources." Your notebook showcases this with:
 
-- **Stateless Tools**: `get_menu`, `get_item_details`, and `get_recommendations` that query the ChromaDB vector database[^1]
+- **Stateless Tools**: `get_menu`, `get_item_details`, and `get_recommendations` that query the ChromaDB vector database
 - **Stateful Tools**: `add_to_order`, `remove_from_order`, `clear_order`, `confirm_order`, and `place_order` that modify persistent state
 - **External Resource Access**: RAG integration with ChromaDB for menu information retrieval beyond the LLM's training data
 
@@ -28,7 +28,7 @@ The diagram describes tools as expanding "capabilities beyond the knowledge of t
 
 The diagram emphasizes reasoning as enabling agents to "actively 'think' throughout the problem-solving process." Your implementation demonstrates this through:
 
-- **Conditional Routing Logic**: The `route_from_chatbot` and `route_from_human` functions make intelligent decisions about workflow paths[^1]
+- **Conditional Routing Logic**: The `route_from_chatbot` and `route_from_human` functions make intelligent decisions about workflow paths
 - **Tool Selection**: The LLM dynamically chooses appropriate tools based on user intent
 - **State-Aware Processing**: The `order_management_node` performs complex logic for order validation, modification, and confirmation
 
