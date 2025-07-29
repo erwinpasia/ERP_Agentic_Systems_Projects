@@ -2,7 +2,7 @@
 
 The CafeGenius agent perfectly exemplifies all three pillars of the Agentic RAG Workflow:
 
-![pl](assets/Agentic_RAG_Workflow.jpeg)
+![pl](5-Day Gen AI Intensive Course 2025 - Kaggle_and_Google/assets/Agentic_RAG_Workflow.jpeg)
 
 ![pl](assets/CafeGenius_LangGraph_Architecture_Diagram.png)
 
