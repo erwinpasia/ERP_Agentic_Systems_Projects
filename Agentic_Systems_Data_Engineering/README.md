@@ -1,6 +1,6 @@
 # Data Engineering Pipeline Agent - Architecture
 
-[!pl](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/blob/main/5-Day%20Gen%20AI%20Intensive%20Course%202025%20-%20Kaggle_and_Google/assets/Data_Engineering_Pipeline_Agent_LangGraph_Architecture_Diagram.png)
+![pl](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/blob/main/5-Day%20Gen%20AI%20Intensive%20Course%202025%20-%20Kaggle_and_Google/assets/Data_Engineering_Pipeline_Agent_LangGraph_Architecture_Diagram.png)
 
 ## **Architectural Highlights**
 
