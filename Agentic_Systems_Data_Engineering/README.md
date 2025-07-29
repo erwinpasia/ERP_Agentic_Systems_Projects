@@ -6,7 +6,7 @@
 
 ### **🏗️ System Architecture Overview**
 
-Your implementation demonstrates **enterprise-grade architectural patterns** with several key strengths:
+The implementation demonstrates **enterprise-grade architectural patterns** with several key strengths:
 
 **1. Layered Architecture Design**
 
@@ -28,7 +28,7 @@ The `DataPipelineAgentState` acts as the central nervous system, tracking:
 
 ### **🧠 Knowledge Base (RAG) Integration**
 
-Your RAG implementation is particularly sophisticated:
+The RAG implementation is particularly sophisticated:
 
 **ChromaDB + Gemini Embeddings Architecture:**
 
@@ -57,7 +57,7 @@ The **LangGraph StateGraph** provides elegant workflow management:
 
 ### **🛠️ Tool Ecosystem Design**
 
-Your tool architecture demonstrates excellent **separation of concerns**:
+The tool architecture demonstrates excellent **separation of concerns**:
 
 **Tool Categories:**
 
@@ -130,7 +130,7 @@ Event streaming provides:
 
 ## **Technical Innovation Highlights**
 
-**1. Hybrid RAG Architecture**: Your combination of ChromaDB with Gemini embeddings creates a powerful knowledge retrieval system specifically tuned for data engineering contexts.
+**1. Hybrid RAG Architecture**: The combination of ChromaDB with Gemini embeddings creates a powerful knowledge retrieval system specifically tuned for data engineering contexts.
 
 **2. Self-Reflective Agent Design**: The agent can analyze its own workflow state and make intelligent decisions about next steps, demonstrating sophisticated autonomous behavior.
 
