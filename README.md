@@ -15,6 +15,7 @@ As AI evolves beyond passive tools into **self-directed agents**, this repo serv
 | ☕ **Cafe AI Assistant** | Retail/Hospitality | Conversational agent for smart cafés — handles orders, inventory alerts, customer service, and adapts to human preferences over time. |
 | 🔐 **Cybersecurity AI SOC Agent** | Cybersecurity | A virtual analyst for Security Operations Centers. Detects anomalies, generates reports, and escalates threats autonomously. |
 | 🧱 **AI Data Architect & Engineer Agent** | Data Engineering | An intelligent agent that designs data pipelines, optimizes schemas, performs ELT/ETL, and maintains data quality standards. |
+| 👨‍💻🤖 **Modular Coding Agent System** | Software Development | Dedicated coding agents for development, review, security, performance, and quality assessment. |
 | 🧠 More to come... | - | Explorations into agentic behavior for education, healthcare, smart cities, and beyond. |
 
 ## 🧬 Why Agentic Systems?
