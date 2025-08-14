@@ -2,9 +2,9 @@
 
 The CafeGenius agent perfectly exemplifies all three pillars of the Agentic RAG Workflow:
 
-![pl](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/blob/main/5-Day%20Gen%20AI%20Intensive%20Course%202025%20-%20Kaggle_and_Google/assets/Agentic_RAG_Workflow.jpeg)
-
 ![pl](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/blob/main/5-Day%20Gen%20AI%20Intensive%20Course%202025%20-%20Kaggle_and_Google/assets/CafeGenius_LangGraph_Architecture_Diagram.png)
+
+![pl](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/blob/main/5-Day%20Gen%20AI%20Intensive%20Course%202025%20-%20Kaggle_and_Google/assets/Agentic_RAG_Workflow.jpeg)
 
 ### **1. Memory Implementation**
 
