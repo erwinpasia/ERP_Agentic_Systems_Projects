@@ -12,10 +12,10 @@ As AI evolves beyond passive tools into **self-directed agents**, this repo serv
 
 | Project | Domain | Description |
 |--------|--------|-------------|
-| [☕ **Cafe AI Assistant**](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/tree/main/5-Day%20Gen%20AI%20Intensive%20Course%202025%20-%20Kaggle_and_Google/Capstone_Projects) | Retail/Hospitality | Conversational agent for smart cafés — handles orders, inventory alerts, customer service, and adapts to human preferences over time. |
-|[ 🔐 **Cybersecurity AI SOC Agent**](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/tree/main/Agentic_Systems_Cybersecurity) | Cybersecurity | A virtual analyst for Security Operations Centers. Detects anomalies, generates reports, and escalates threats autonomously. |
-| [🧱 **AI Data Architect & Engineer Agent**](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/tree/main/Agentic_Systems_Data_Engineering) | Data Engineering | An intelligent agent that designs data pipelines, optimizes schemas, performs ELT/ETL, and maintains data quality standards. |
-| [👨‍💻🤖 **Modular Coding Agent System**](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/tree/main/Agentic_Systems_Software_Development) | Software Development | Dedicated coding agents for development, review, security, performance, and quality assessment. |
+| ☕ [**Cafe AI Assistant**](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/tree/main/5-Day%20Gen%20AI%20Intensive%20Course%202025%20-%20Kaggle_and_Google/Capstone_Projects) | Retail/Hospitality | Conversational agent for smart cafés — handles orders, inventory alerts, customer service, and adapts to human preferences over time. |
+| 🔐 [**Cybersecurity AI SOC Agent**](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/tree/main/Agentic_Systems_Cybersecurity) | Cybersecurity | A virtual analyst for Security Operations Centers. Detects anomalies, generates reports, and escalates threats autonomously. |
+| 🧱 [**AI Data Architect & Engineer Agent**](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/tree/main/Agentic_Systems_Data_Engineering) | Data Engineering | An intelligent agent that designs data pipelines, optimizes schemas, performs ELT/ETL, and maintains data quality standards. |
+| 👨‍💻🤖 [**Modular Coding Agent System**](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/tree/main/Agentic_Systems_Software_Development) | Software Development | Dedicated coding agents for development, review, security, performance, and quality assessment. |
 | 🧠 More to come... | - | Explorations into agentic behavior for education, healthcare, smart cities, and beyond. |
 
 ## 🧬 Why Agentic Systems?
