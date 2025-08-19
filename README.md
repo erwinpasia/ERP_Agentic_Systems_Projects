@@ -7,6 +7,8 @@ Welcome to the **Agentic AI Systems Portfolio** — a curated collection of adva
 As AI evolves beyond passive tools into **self-directed agents**, this repo serves as a blueprint for the **future of intelligent system design**. Each project reflects a real-world application where AI agents **perceive, decide, act**, and **adapt** in dynamic environments.
 
 ![pl](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/blob/main/5-Day%20Gen%20AI%20Intensive%20Course%202025%20-%20Kaggle_and_Google/assets/Context_Engineering_-_Weviate.jpeg)
+![pl](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/blob/main/5-Day%20Gen%20AI%20Intensive%20Course%202025%20-%20Kaggle_and_Google/assets/Agentic_RAG_Workflow.jpeg)
+![pl](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/blob/main/5-Day%20Gen%20AI%20Intensive%20Course%202025%20-%20Kaggle_and_Google/assets/6_Types_of_Context_for_RAG_AI_Agents.jpeg)
 
 ## 📁 What's Inside?
 
