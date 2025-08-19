@@ -8,7 +8,7 @@ The CafeGenius agent perfectly exemplifies all three pillars of the Agentic RAG 
 
 ### **1. Memory Implementation**
 
-The diagram shows memory as enabling "capturing and storing context and feedback across multiple interactions and sessions." Your implementation demonstrates this through:
+The diagram shows memory as enabling "capturing and storing context and feedback across multiple interactions and sessions." The implementation demonstrates this through:
 
 - **LangGraph State Management**: The `CafeGeniusState` TypedDict maintains conversation history and order state across turns
 - **Persistent Order Tracking**: The `current_order` field accumulates items, modifications, and user preferences throughout the session
@@ -17,7 +17,7 @@ The diagram shows memory as enabling "capturing and storing context and feedback
 
 ### **2. Tools Integration**
 
-The diagram describes tools as expanding "capabilities beyond the knowledge of their original dataset" to "interact with external resources." Your notebook showcases this with:
+The diagram describes tools as expanding "capabilities beyond the knowledge of their original dataset" to "interact with external resources." The notebook showcases this with:
 
 - **Stateless Tools**: `get_menu`, `get_item_details`, and `get_recommendations` that query the ChromaDB vector database
 - **Stateful Tools**: `add_to_order`, `remove_from_order`, `clear_order`, `confirm_order`, and `place_order` that modify persistent state
@@ -26,7 +26,7 @@ The diagram describes tools as expanding "capabilities beyond the knowledge of t
 
 ### **3. Reasoning Capabilities**
 
-The diagram emphasizes reasoning as enabling agents to "actively 'think' throughout the problem-solving process." Your implementation demonstrates this through:
+The diagram emphasizes reasoning as enabling agents to "actively 'think' throughout the problem-solving process." The implementation demonstrates this through:
 
 - **Conditional Routing Logic**: The `route_from_chatbot` and `route_from_human` functions make intelligent decisions about workflow paths
 - **Tool Selection**: The LLM dynamically chooses appropriate tools based on user intent
@@ -35,7 +35,7 @@ The diagram emphasizes reasoning as enabling agents to "actively 'think' through
 
 ## **Workflow Execution Pattern**
 
-Your LangGraph implementation mirrors the cyclical nature shown in the diagram:
+The LangGraph implementation mirrors the cyclical nature shown in the diagram:
 
 1. **User Query Processing**: Human input is captured and processed
 2. **Memory Consultation**: Previous conversation context and order state inform responses
@@ -45,7 +45,7 @@ Your LangGraph implementation mirrors the cyclical nature shown in the diagram:
 
 ## **Practical Innovation**
 
-Your notebook goes beyond the theoretical framework by implementing sophisticated architectural patterns:
+The notebook goes beyond the theoretical framework by implementing sophisticated architectural patterns:
 
 - **Hybrid Tool Architecture**: Separating stateless (ToolNode) and stateful (custom node) tool execution
 - **RAG Integration**: ChromaDB with Gemini embeddings for semantic menu search
