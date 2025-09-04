@@ -51,5 +51,5 @@ The notebook goes beyond the theoretical framework by implementing sophisticated
 - **RAG Integration**: ChromaDB with Gemini embeddings for semantic menu search
 - **Production-Ready Patterns**: Error handling, logging, and state validation throughout the pipeline
 
-The CafeGenius agent serves as an excellent **concrete implementation** of the abstract Agentic RAG Workflow, demonstrating how the three core components work together in a real-world conversational AI system. Your cafe ordering scenario provides a practical context where memory (order persistence), tools (menu queries and order management), and reasoning (intent understanding and workflow control) combine to create a sophisticated, stateful agent experience.
+The CafeGenius agent serves as an excellent **concrete implementation** of the abstract Agentic RAG Workflow, demonstrating how the three core components work together in a real-world conversational AI system. The cafe ordering scenario provides a practical context where memory (order persistence), tools (menu queries and order management), and reasoning (intent understanding and workflow control) combine to create a sophisticated, stateful agent experience.
 
