@@ -3,6 +3,8 @@
 
 ![pl](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/blob/main/5-Day%20Gen%20AI%20Intensive%20Course%202025%20-%20Kaggle_and_Google/assets/asset_pic1.jpeg)
 
+# 5-Day Gen AI Intensive Course with Google
+
 ## Overview
 
 The **5-Day Gen AI Intensive Course** was a collaborative effort between **Google**, **Kaggle**, and **Google DeepMind** that achieved remarkable success, attracting over **280,000 participants** and earning a **Guinness World Record** for the largest attendance at a virtual AI conference in one week.
@@ -15,16 +17,16 @@ The course ran from **March 31 - April 4, 2025** and is now available as a self-
 
 The course was brought together by a distinguished team of AI experts and education leaders:
 
-- **Anant Nawalgaria** - Google
-- **Antonio Gulli** - Google (Senior Director, Distinguished Engineer, CTO Office)
-- **Mark McDonald** - Google
-- **Polong Lin** - Google
-- **Paige Bailey** - Google DeepMind (AI Developer Relations Engineering Lead)
+- **[Anant Nawalgaria](https://openreview.net/profile?id=~Anant_Nawalgaria1)** - Google (Sr. Staff Machine Learning Specialist Engineer)
+- **[Antonio Gulli](https://scholar.google.com/citations?user=wfiEFPQAAAAJ&hl=en)** - Google (Senior Director, Distinguished Engineer, CTO Office)
+- **[Mark McDonald](https://au.linkedin.com/in/markmcdonald0)** - Google DeepMind (Gemini/AI Developer Relations)
+- **[Polong Lin](https://uk.linkedin.com/in/polonglin)** - Google (Staff Developer Advocate, Generative AI)
+- **[Paige Bailey](https://www.linkedin.com/in/dynamicwebpaige)** - Google DeepMind (AI Developer Relations Engineering Lead)
 
 
 ### Host \& Primary Face of the Course
 
-**Paige Bailey** (Google DeepMind) served as the primary host for daily livestream sessions.
+**[Paige Bailey](https://www.linkedin.com/in/dynamicwebpaige)** (Google DeepMind) served as the primary host for daily livestream sessions.
 
 ## Daily Content \& Featured Contributors
 
@@ -32,47 +34,51 @@ The course was brought together by a distinguished team of AI experts and educat
 
 **Featured Speakers:**
 
-- Paige Bailey (Google DeepMind)
-- Warren Barkley (Google)
-- Logan Kilpatrick (Google)
-- Kieran Milan (Google)
-- Anant Nawalgaria (Google)
-- Irina Sigler (Google)
-- Mat Velloso (Google)
+- [Paige Bailey](https://www.linkedin.com/in/dynamicwebpaige) (Google DeepMind)
+- [Warren Barkley](https://www.linkedin.com/in/warrenbarkley) (Google - Head of Product Management for Cloud AI)
+- [Logan Kilpatrick](https://www.linkedin.com/in/logankilpatrick) (Google DeepMind - Senior Product Manager, Google AI Studio)
+- [Kieran Milan](https://uk.linkedin.com/in/kieran-milan-03b95135) (DeepMind - Research Engineer)
+- [Anant Nawalgaria](https://openreview.net/profile?id=~Anant_Nawalgaria1) (Google)
+- **Irina Sigler** (Google)
+- **Mat Velloso** (Google)
 
 
 ### Day 2: Embeddings and Vector Stores/Databases
 
 **Featured Speakers:**
 
-- Andre Araujo (Google)
-- Patricia Florissi (Google)
-- Alan Li (Google)
-- Xiaoqi Ren (Google)
-- Chuck Sugnet (Google)
-- Howard Zhou (Google)
+- **Andre Araujo** (Google)
+- **Patricia Florissi** (Google)
+- **Alan Li** (Google)
+- [Anant Nawalgaria](https://openreview.net/profile?id=~Anant_Nawalgaria1) (Google)
+- **Xiaoqi Ren** (Google)
+- **Chuck Sugnet** (Google)
+- **Howard Zhou** (Google)
 
 
 ### Day 3: Generative AI Agents
 
 **Featured Speakers:**
 
-- Alan Blount (Google)
-- Steven Johnson (Google)
-- Jaclyn Konzelmann (Google)
-- Patrick Marlow (Google)
-- Julia Wiesinger (Google)
+- **Alan Blount** (Google)
+- [Antonio Gulli](https://scholar.google.com/citations?user=wfiEFPQAAAAJ&hl=en) (Google)
+- **Steven Johnson** (Google)
+- **Jaclyn Konzelmann** (Google)
+- **Patrick Marlow** (Google)
+- [Anant Nawalgaria](https://openreview.net/profile?id=~Anant_Nawalgaria1) (Google)
+- **Julia Wiesinger** (Google)
 
 
 ### Day 4: Domain-Specific LLMs
 
 **Featured Speakers:**
 
-- Donny Cheung (Google)
-- Scott Coull (Google)
-- Ewa Dominowska (Google)
-- Chris Grier (Google)
-- Karthik Raman (Google)
+- **Donny Cheung** (Google)
+- **Scott Coull** (Google)
+- **Ewa Dominowska** (Google)
+- **Chris Grier** (Google)
+- [Anant Nawalgaria](https://openreview.net/profile?id=~Anant_Nawalgaria1) (Google)
+- **Karthik Raman** (Google)
 
 
 ### Day 5: MLOps for Generative AI
@@ -82,7 +88,7 @@ The course was brought together by a distinguished team of AI experts and educat
 - Focus on adapting MLOps practices for Generative AI
 - Vertex AI tools for foundation models
 - AgentOps for agentic applications
-- Live demo of the Agent Starter Pack
+- Live demo of the Agent Starter Pack by [Mark McDonald](https://au.linkedin.com/in/markmcdonald0) and team
 
 
 ## Course Structure
@@ -98,8 +104,8 @@ Each day included:
 
 ### Key Technologies Covered
 
-- Gemini 2.0 API
-- Vertex AI platform
+- Gemini 2.0 API (led by [Mark McDonald](https://au.linkedin.com/in/markmcdonald0) and [Logan Kilpatrick](https://www.linkedin.com/in/logankilpatrick))
+- Vertex AI platform (championed by [Polong Lin](https://uk.linkedin.com/in/polonglin))
 - LangGraph for agent development
 - Google Cloud Platform services
 - Embeddings and vector search
@@ -113,9 +119,9 @@ Each day included:
 
 - **Kaggle**: Learning platform, community infrastructure, code labs
 - **Google**: Technical expertise, content creation, speaker resources
-- **Google DeepMind**: Advanced AI research, model development
-- **Google Research**: AI model development teams
-- **Google Cloud**: Infrastructure and enterprise AI tools
+- **Google DeepMind**: Advanced AI research, model development (led by [Paige Bailey](https://www.linkedin.com/in/dynamicwebpaige), [Mark McDonald](https://au.linkedin.com/in/markmcdonald0), [Logan Kilpatrick](https://www.linkedin.com/in/logankilpatrick))
+- **Google Research**: AI model development teams (with [Anant Nawalgaria](https://openreview.net/profile?id=~Anant_Nawalgaria1))
+- **Google Cloud**: Infrastructure and enterprise AI tools (with [Polong Lin](https://uk.linkedin.com/in/polonglin), [Warren Barkley](https://www.linkedin.com/in/warrenbarkley))
 
 ## Course Resources
 
@@ -123,16 +129,17 @@ Each day included:
 
 - Self-paced learning guide on Kaggle
 - Downloadable whitepapers
-- Interactive code labs and notebooks
-- Recorded livestream sessions
+- Interactive code labs and notebooks (developed by [Mark McDonald](https://au.linkedin.com/in/markmcdonald0) and team)
+- Recorded livestream sessions (hosted by [Paige Bailey](https://www.linkedin.com/in/dynamicwebpaige))
 - Community Discord for ongoing discussion
+- [Open-source Gemini Cookbook](https://github.com/google-gemini/cookbook) (maintained by [Mark McDonald](https://github.com/markmcd))
 
 
 ### Access Information
 
 - **Course Guide**: [Kaggle Learn Guide](https://www.kaggle.com/learn-guide/5-day-genai)
 - **Platform**: Kaggle (phone verification required for codelabs)
-- **AI Studio**: Google AI Studio account needed for API access
+- **AI Studio**: Google AI Studio account needed for API access (led by [Logan Kilpatrick](https://www.linkedin.com/in/logankilpatrick))
 - **Community**: Kaggle Discord server
 
 
@@ -143,6 +150,26 @@ Each day included:
 - **Self-paced format** now available for continued learning
 - **Capstone projects** with winning submissions showcased
 - **Industry recognition** as a breakthrough in AI education accessibility
+- **Over 4M users** on Gemini API (launched by [Mark McDonald](https://au.linkedin.com/in/markmcdonald0))
+- **3M downloads/month** for google-generativeai Python SDK (contributed by [Mark McDonald](https://au.linkedin.com/in/markmcdonald0))
+
+
+## Key Contributors' Professional Profiles
+
+### Leadership Team
+
+- **[Paige Bailey](https://www.linkedin.com/in/dynamicwebpaige)** - Google DeepMind AI Developer Relations Engineering Lead
+- **[Anant Nawalgaria](https://openreview.net/profile?id=~Anant_Nawalgaria1)** - Google Sr. Staff ML Specialist Engineer, Researcher
+- **[Mark McDonald](https://au.linkedin.com/in/markmcdonald0)** - Google DeepMind Gemini/AI Developer Relations
+- **[Logan Kilpatrick](https://www.linkedin.com/in/logankilpatrick)** - Google DeepMind Senior Product Manager (former OpenAI Developer Relations)
+- **[Polong Lin](https://uk.linkedin.com/in/polonglin)** - Google Staff Developer Advocate, Generative AI
+- **[Antonio Gulli](https://scholar.google.com/citations?user=wfiEFPQAAAAJ&hl=en)** - Google Senior Director, Distinguished Engineer
+
+
+### Research \& Development
+
+- **[Kieran Milan](https://uk.linkedin.com/in/kieran-milan-03b95135)** - DeepMind Research Engineer
+- **[Warren Barkley](https://www.linkedin.com/in/warrenbarkley)** - Former Google Head of Product Management for Cloud AI (now NVIDIA VP of Product)
 
 
 ## Contributing Organizations
@@ -156,7 +183,17 @@ This course represents a collaborative effort across multiple Google divisions:
 - Kaggle Platform Team
 
 ***
+
 *This course demonstrates the power of collaborative AI education, bringing together world-class expertise from across Google's AI ecosystem to deliver accessible, hands-on learning at unprecedented scale.*
+
+**Connect with the Course Leaders:**
+
+- Follow [Paige Bailey](https://www.linkedin.com/in/dynamicwebpaige) for AI research updates
+- Check out [Mark McDonald's](https://github.com/markmcd) open-source contributions
+- Explore [Anant Nawalgaria's](https://openreview.net/profile?id=~Anant_Nawalgaria1) research publications
+- Learn from [Logan Kilpatrick's](https://www.linkedin.com/in/logankilpatrick) product insights
+- Follow [Polong Lin's](https://uk.linkedin.com/in/polonglin) developer advocacy work
+
 ***
 
 ## Table of Contents
