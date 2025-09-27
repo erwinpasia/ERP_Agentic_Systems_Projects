@@ -7,7 +7,7 @@ A comprehensive documentation of the organizers, contributors, and structure of 
 
 ## Overview
 
-The **5-Day Gen AI Intensive Course** was a collaborative effort between **Google**, **Kaggle**, and **Google DeepMind** that achieved remarkable success, attracting over **280,000 participants** and earning a **Guinness World Record** for the largest attendance at a virtual AI conference in one week.[^18]
+The **5-Day Gen AI Intensive Course** was a collaborative effort between **Google**, **Kaggle**, and **Google DeepMind** that achieved remarkable success, attracting over **280,000 participants** and earning a **Guinness World Record** for the largest attendance at a virtual AI conference in one week.
 
 The course ran from **March 31 - April 4, 2025** and is now available as a self-paced learning guide.
 
@@ -26,7 +26,7 @@ The course was brought together by a distinguished team of AI experts and educat
 
 ### Host \& Primary Face of the Course
 
-**Paige Bailey** (Google DeepMind) served as the primary host for daily livestream sessions, making her the most visible representative of the program.[^21][^22]
+**Paige Bailey** (Google DeepMind) served as the primary host for daily livestream sessions, making her the most visible representative of the program.
 
 ## Daily Content \& Featured Contributors
 
@@ -122,7 +122,7 @@ Each day included:
 
 ### Corporate Integration
 
-As of April 2024, Google consolidated AI model development teams across Google Research and Google DeepMind to accelerate AI progress, with many contributors working across these integrated teams.[^11]
+As of April 2024, Google consolidated AI model development teams across Google Research and Google DeepMind to accelerate AI progress, with many contributors working across these integrated teams.
 
 ## Course Resources
 
@@ -163,56 +163,8 @@ This course represents a collaborative effort across multiple Google divisions:
 - Kaggle Platform Team
 
 ***
-
 *This course demonstrates the power of collaborative AI education, bringing together world-class expertise from across Google's AI ecosystem to deliver accessible, hands-on learning at unprecedented scale.*
-<span style="display:none">[^1][^10][^12][^13][^14][^15][^16][^17][^19][^2][^20][^3][^4][^5][^6][^7][^8][^9]</span>
-
-<div align="center">⁂</div>
-
-[^1]: https://www.kaggle.com/datasets/ppb00x/deepmind-research-papers
-
-[^2]: https://www.kaggle.com/docs/models
-
-[^3]: https://www.kaggle.com/organizations/deepmind
-
-[^4]: https://www.kaggle.com/datasets/bhavikjikadara/google-generative-ai-documentation
-
-[^5]: https://www.tredence.com/blog/game-arena-deepmind-on-databricks
-
-[^6]: https://www.kaggle.com/code/sitaberete/build-ai-agents-with-google-s-llm-gemma
-
-[^7]: https://blog.google/technology/developers/ai-agents-intensive/
-
-[^8]: https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/
-
-[^9]: https://www.kaggle.com/code/youssef19/getting-started-with-gemini-api
-
-[^10]: https://www.kaggle.com/competitions/banana
-
-[^11]: https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/goog-20241231.htm
-
-[^12]: https://www.sec.gov/Archives/edgar/data/1652044/000130817925000511/goog012701-def14a.htm
-
-[^13]: https://www.sec.gov/Archives/edgar/data/1652044/000165204423000094/goog-20230930.htm
-
-[^14]: https://www.sec.gov/Archives/edgar/data/1652044/000165204424000118/goog-20240930.htm
-
-[^15]: https://www.sec.gov/Archives/edgar/data/1769628/000119312525067651/d899798d424b4.htm
-
-[^16]: https://www.sec.gov/Archives/edgar/data/1652044/000165204423000070/goog-20230630.htm
-
-[^17]: https://www.sec.gov/Archives/edgar/data/1652044/000165204424000022/goog-20231231.htm
-
-[^18]: https://blog.google/technology/developers/google-kaggle-genai-intensive-recap-2025/
-
-[^19]: https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/
-
-[^20]: https://blog.google/technology/ai/2024-ai-extraordinary-progress-advancement/
-
-[^21]: https://www.youtube.com/watch?v=kpRyiJUUFxY
-
-[^22]: https://www.youtube.com/watch?v=uCFW0i9xrBc
-
+***
 
 ## Table of Contents
 
