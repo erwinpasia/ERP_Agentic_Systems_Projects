@@ -3,8 +3,6 @@
 
 ![pl](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/blob/main/5-Day%20Gen%20AI%20Intensive%20Course%202025%20-%20Kaggle_and_Google/assets/asset_pic1.jpeg)
 
-A comprehensive documentation of the organizers, contributors, and structure of Google and Kaggle's record-breaking Generative AI Intensive Course.
-
 ## Overview
 
 The **5-Day Gen AI Intensive Course** was a collaborative effort between **Google**, **Kaggle**, and **Google DeepMind** that achieved remarkable success, attracting over **280,000 participants** and earning a **Guinness World Record** for the largest attendance at a virtual AI conference in one week.
@@ -26,7 +24,7 @@ The course was brought together by a distinguished team of AI experts and educat
 
 ### Host \& Primary Face of the Course
 
-**Paige Bailey** (Google DeepMind) served as the primary host for daily livestream sessions, making her the most visible representative of the program.
+**Paige Bailey** (Google DeepMind) served as the primary host for daily livestream sessions.
 
 ## Daily Content \& Featured Contributors
 
@@ -118,11 +116,6 @@ Each day included:
 - **Google DeepMind**: Advanced AI research, model development
 - **Google Research**: AI model development teams
 - **Google Cloud**: Infrastructure and enterprise AI tools
-
-
-### Corporate Integration
-
-As of April 2024, Google consolidated AI model development teams across Google Research and Google DeepMind to accelerate AI progress, with many contributors working across these integrated teams.
 
 ## Course Resources
 
