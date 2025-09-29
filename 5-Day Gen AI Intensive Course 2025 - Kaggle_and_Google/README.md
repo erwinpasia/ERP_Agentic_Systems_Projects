@@ -3,8 +3,6 @@
 
 [![pl](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/blob/main/5-Day%20Gen%20AI%20Intensive%20Course%202025%20-%20Kaggle_and_Google/assets/asset_pic1.jpeg)](https://www.kaggle.com/learn-guide/5-day-genai)
 
-# 5-Day Gen AI Intensive Course with Google
-
 ## Overview
 
 The **5-Day Gen AI Intensive Course** was a collaborative effort between **Google**, **Kaggle**, and **Google DeepMind** that achieved remarkable success, attracting over **280,000 participants** and earning a **Guinness World Record** for the largest attendance at a virtual AI conference in one week.
