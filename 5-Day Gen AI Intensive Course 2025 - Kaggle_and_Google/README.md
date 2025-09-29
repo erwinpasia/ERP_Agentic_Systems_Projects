@@ -1,7 +1,7 @@
 # 5-Day Generative AI Intensive with Google 2025Q1
 ### *(by Kaggle, Google, and DeepMind. Taken last March 31 - April 4, 2025.)*
 
-![pl](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/blob/main/5-Day%20Gen%20AI%20Intensive%20Course%202025%20-%20Kaggle_and_Google/assets/asset_pic1.jpeg)
+[![pl](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/blob/main/5-Day%20Gen%20AI%20Intensive%20Course%202025%20-%20Kaggle_and_Google/assets/asset_pic1.jpeg)](https://www.kaggle.com/learn-guide/5-day-genai)
 
 # 5-Day Gen AI Intensive Course with Google
 
