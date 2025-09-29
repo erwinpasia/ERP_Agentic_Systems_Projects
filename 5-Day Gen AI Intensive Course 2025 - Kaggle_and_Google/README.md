@@ -7,7 +7,7 @@
 
 The **5-Day Gen AI Intensive Course** was a collaborative effort between **Google**, **Kaggle**, and **Google DeepMind** that achieved remarkable success, attracting over **280,000 participants** and earning a **Guinness World Record** for the largest attendance at a virtual AI conference in one week.
 
-The course ran from **March 31 - April 4, 2025** and is now available as a self-paced learning guide.
+The course ran from **March 31 - April 4, 2025** and is [now available as a self-paced learning guide.](https://www.kaggle.com/learn-guide/5-day-genai)
 
 ## Course Leadership \& Organization
 
