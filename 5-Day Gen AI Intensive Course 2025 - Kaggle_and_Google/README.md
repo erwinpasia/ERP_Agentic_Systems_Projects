@@ -186,14 +186,6 @@ This course represents a collaborative effort across multiple Google divisions:
 
 *This course demonstrates the power of collaborative AI education, bringing together world-class expertise from across Google's AI ecosystem to deliver accessible, hands-on learning at unprecedented scale.*
 
-**Connect with the Course Leaders:**
-
-- Follow [Paige Bailey](https://www.linkedin.com/in/dynamicwebpaige) for AI research updates
-- Check out [Mark McDonald's](https://github.com/markmcd) open-source contributions
-- Explore [Anant Nawalgaria's](https://openreview.net/profile?id=~Anant_Nawalgaria1) research publications
-- Learn from [Logan Kilpatrick's](https://www.linkedin.com/in/logankilpatrick) product insights
-- Follow [Polong Lin's](https://uk.linkedin.com/in/polonglin) developer advocacy work
-
 ***
 
 ## Table of Contents
