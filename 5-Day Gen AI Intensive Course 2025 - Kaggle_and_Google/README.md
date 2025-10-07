@@ -337,7 +337,7 @@ All "full versions" of Google Whitepapers covered during the training can be fou
 
 ---  
 
-### [**Badge Certificate For Completion and Capstone Project Entry:**](https://www.kaggle.com/certification/badges/erwinrpasia/96)
+### [**A well-earned Kaggle Badge & Certificate recognizing Completion and Capstone Project Entry:**](https://www.kaggle.com/certification/badges/erwinrpasia/96)
 
 [![pl](assets/Kaggle_5-Day_Gen-AI_Intensive.png)](https://www.kaggle.com/certification/badges/erwinrpasia/96)
 
